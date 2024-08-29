@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 2. install telwind css
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init
+3. for UI installed @headlessui/react
+4. for icon
